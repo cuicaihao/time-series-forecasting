@@ -58,7 +58,7 @@ It built the MLP (Tensorflow) model on the data between 2018 and 2019 and made e
 
 These notebooks are designed as examples to encourage more and more people getting into data analysis and machine learning practice. They are not designed for real applications.
 
-In the `src` folder, you will find four notebooks.
+In the `notebooks` folder, you will find four notebooks.
 
 - [Demo (MLP.TF) 01 Build Model.ipynb]
 - [Demo (MLP.TF) 02 Apply Model.ipynb]
